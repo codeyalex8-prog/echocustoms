@@ -1,0 +1,329 @@
+{
+  "counters": {
+    "support": 2,
+    "order": 0,
+    "package": 0,
+    "portfolio": 0,
+    "submission": 0,
+    "case": 6,
+    "market": 0
+  },
+  "status": {
+    "bot": "open",
+    "discord": "open",
+    "erlc": "open"
+  },
+  "panels": {
+    "owner": {
+      "channelId": "1571997937234346105",
+      "messageId": "1574172041173663886",
+      "page": "protect"
+    }
+  },
+  "packages": {},
+  "links": {},
+  "clicks": {},
+  "reviewed": {},
+  "claimed": {},
+  "marketWatch": {},
+  "marketClaims": {},
+  "stickies": {},
+  "tickets": {},
+  "queue": [],
+  "blacklist": {},
+  "clients": {
+    "1444276604938489886": {
+      "orders": 0,
+      "successful": 0
+    }
+  },
+  "notes": {},
+  "submissions": {},
+  "warns": {},
+  "cases": {
+    "1": {
+      "id": 1,
+      "action": "jail",
+      "modId": null,
+      "userId": "1521542101152563368",
+      "userTag": "nnotright",
+      "reason": "Anti-raid: gave someone an Administrator role without permission",
+      "at": 1795382117054,
+      "proofLink": null,
+      "extra": {
+        "text": "**Source:** 🛡️ Anti-raid (automatic)\n**Evidence:**\n• <t:1795382115:T> Gave **🍦** to <@1444276604938489886>"
+      },
+      "logUrl": "https://discord.com/channels/1571343810494075002/1571997618748522636/1574171436120150157",
+      "proofUrl": null
+    },
+    "2": {
+      "id": 2,
+      "action": "automod",
+      "modId": null,
+      "userId": "1561105695388999773",
+      "userTag": "jay033432",
+      "reason": "Smart-mod: possible impersonation of owner (same name as owner \"Frosty\")",
+      "at": 1795382222392,
+      "proofLink": null,
+      "extra": {
+        "text": "**Trigger:** periodic scan\n**Names seen:** `jay033432`, `Frosty`\n**Outcome:** Nickname changed to \"Renamed (impersonation)\"."
+      },
+      "logUrl": "https://discord.com/channels/1571343810494075002/1571997618748522636/1574171878140936333",
+      "proofUrl": null
+    },
+    "3": {
+      "id": 3,
+      "action": "automod",
+      "modId": null,
+      "userId": "1561105695388999773",
+      "userTag": "jay033432",
+      "reason": "Smart-mod: possible impersonation of owner (same name as owner \"Frosty\")",
+      "at": 1795382222673,
+      "proofLink": null,
+      "extra": {
+        "text": "**Trigger:** changed name or avatar\n**Names seen:** `jay033432`, `Frosty`, `Renamed (impersonation)`\n**Outcome:** Nickname changed to \"Renamed (impersonation)\"."
+      },
+      "logUrl": "https://discord.com/channels/1571343810494075002/1571997618748522636/1574171880125108345",
+      "proofUrl": null
+    },
+    "4": {
+      "id": 4,
+      "action": "automod",
+      "modId": null,
+      "userId": "1561105695388999773",
+      "userTag": "jay033432",
+      "reason": "Inappropriate language (strike 1/15)",
+      "at": 1795383317277,
+      "proofLink": null,
+      "extra": {
+        "text": "**Where:** <#1571996083121557624>\n**Message:** ||fuckkkkkkk||\n**Outcome:** No punishment yet."
+      },
+      "logUrl": "https://discord.com/channels/1571343810494075002/1571997618748522636/1574176470094586050",
+      "proofUrl": null
+    },
+    "5": {
+      "id": 5,
+      "action": "automod",
+      "modId": null,
+      "userId": "1561105695388999773",
+      "userTag": "jay033432",
+      "reason": "Inappropriate language (strike 2/15)",
+      "at": 1795383336293,
+      "proofLink": null,
+      "extra": {
+        "text": "**Where:** <#1571996083121557624>\n**Message:** ||niggggggger||\n**Outcome:** No punishment yet."
+      },
+      "logUrl": "https://discord.com/channels/1571343810494075002/1571997618748522636/1574176549853470882",
+      "proofUrl": null
+    },
+    "6": {
+      "id": 6,
+      "action": "automod",
+      "modId": null,
+      "userId": "1561105695388999773",
+      "userTag": "jay033432",
+      "reason": "Inappropriate language (strike 3/15)",
+      "at": 1795383342612,
+      "proofLink": null,
+      "extra": {
+        "text": "**Where:** <#1571996083121557624>\n**Message:** ||bro fuckckcking||\n**Outcome:** **30 minute timeout** applied."
+      },
+      "logUrl": "https://discord.com/channels/1571343810494075002/1571997618748522636/1574176576403411205",
+      "proofUrl": null
+    }
+  },
+  "strikes": {
+    "1561105695388999773": {
+      "count": 3,
+      "history": [
+        {
+          "at": 1795383316572,
+          "reason": "Inappropriate language",
+          "kind": "swear",
+          "content": "fuckkkkkkk"
+        },
+        {
+          "at": 1795383335981,
+          "reason": "Inappropriate language",
+          "kind": "swear",
+          "content": "niggggggger"
+        },
+        {
+          "at": 1795383341934,
+          "reason": "Inappropriate language",
+          "kind": "swear",
+          "content": "bro fuckckcking"
+        }
+      ]
+    }
+  },
+  "tempbans": {},
+  "automod": {
+    "words": []
+  },
+  "security": {
+    "prisonerRoleId": "1573500662338158642",
+    "locked": true,
+    "level": "high"
+  },
+  "jailed": {
+    "1521542101152563368": {
+      "roles": [
+        "1572008485628149760",
+        "1572008480498262017",
+        "1572008488404521000",
+        "1572010024333606922",
+        "1572010600488509450",
+        "1572008487276253234",
+        "1572008485430759455"
+      ],
+      "by": null,
+      "reason": "Anti-raid: gave someone an Administrator role without permission",
+      "at": 1795382116009,
+      "source": "raid",
+      "details": [
+        "• <t:1795382115:T> Gave **🍦** to <@1444276604938489886>"
+      ],
+      "proofLink": null
+    }
+  },
+  "toggles": {},
+  "maintenance": {
+    "on": false
+  },
+  "disabledCmds": {},
+  "giveaways": {},
+  "suggestions": {},
+  "faq": [],
+  "reminders": [],
+  "portfolio": [],
+  "stats": {
+    "ordersOpened": 0,
+    "ordersClosed": 0,
+    "ordersSuccessful": 0,
+    "ticketsClosed": 3,
+    "ratingSum": 0,
+    "ratingCount": 0,
+    "packageSales": 0,
+    "robuxEarned": 0,
+    "byStaff": {
+      "1444276604938489886": 3
+    }
+  },
+  "presence": {
+    "status": "online",
+    "type": "watching",
+    "text": "{queue} orders in the queue",
+    "url": "",
+    "auto": false,
+    "rotate": {
+      "on": false,
+      "interval": 60,
+      "items": [],
+      "idx": 0,
+      "last": 0
+    }
+  },
+  "digest": {
+    "settings": {},
+    "history": [],
+    "week": {
+      "joins": 0,
+      "leaves": 0
+    },
+    "snap": {
+      "at": 1795382161879,
+      "stats": {
+        "ordersOpened": 0,
+        "ordersClosed": 0,
+        "ordersSuccessful": 0,
+        "ticketsClosed": 0,
+        "ratingSum": 0,
+        "ratingCount": 0,
+        "packageSales": 0,
+        "robuxEarned": 0,
+        "byStaff": {}
+      },
+      "smart": {}
+    },
+    "lastKey": "2026-11-22"
+  },
+  "smartmod": {
+    "stats": {
+      "scanned": 3,
+      "local": 0,
+      "ai": 0,
+      "aiCalls": 0,
+      "images": 0,
+      "imageFlags": 0,
+      "impersonation": 2,
+      "falsePositives": 0,
+      "deleted": 0,
+      "byKind": {
+        "impersonation": 2
+      }
+    },
+    "trusted": {},
+    "reviews": {
+      "2": {
+        "userId": "1561105695388999773",
+        "kind": "impersonation",
+        "prevNick": null,
+        "renamed": true,
+        "text": "### <:540554moderatoricon:1571979716880244776> Smart-mod review · Case #2\n<@1561105695388999773> may be **impersonating Frosty** (same name as owner \"Frosty\").\nNickname changed to \"Renamed (impersonation)\".\n-# False positive = undo the rename and stop checking this user.",
+        "at": 1795382222753
+      },
+      "3": {
+        "userId": "1561105695388999773",
+        "kind": "impersonation",
+        "prevNick": "Renamed (impersonation)",
+        "renamed": true,
+        "text": "### <:540554moderatoricon:1571979716880244776> Smart-mod review · Case #3\n<@1561105695388999773> may be **impersonating Frosty** (same name as owner \"Frosty\").\nNickname changed to \"Renamed (impersonation)\".\n-# False positive = undo the rename and stop checking this user.",
+        "at": 1795382223225
+      }
+    },
+    "flaggedNames": {
+      "1561105695388999773": "Frosty|Renamed (impersonation)|jay033432"
+    },
+    "recent": [],
+    "scope": "suspicious",
+    "sensitivity": "medium",
+    "scamAction": "timeout",
+    "impAction": "rename"
+  },
+  "ai": {
+    "enabled": true,
+    "limit": 1500,
+    "day": "2026-11-22",
+    "calls": 2,
+    "tokensIn": 635,
+    "tokensOut": 130,
+    "errors": 0,
+    "total": {
+      "calls": 2,
+      "tokensIn": 635,
+      "tokensOut": 130
+    },
+    "provider": "auto",
+    "lastModel": "groq/openai/gpt-oss-120b",
+    "lastError": "",
+    "lastMs": 139
+  },
+  "aitools": {
+    "summaries": [
+      {
+        "at": 1795382478492,
+        "name": "support-0002",
+        "type": "support",
+        "summary": "The client sent a brief message \"s\" as their inquiry. No further details or images were provided. The ticket was closed shortly after with reason \"j\". No resolution was reached.",
+        "outcome": "unresolved",
+        "sentiment": "neutral",
+        "topic": "brief inquiry",
+        "followUps": []
+      }
+    ],
+    "stats": {
+      "summaries": 1
+    }
+  }
+}
